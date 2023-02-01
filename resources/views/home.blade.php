@@ -213,61 +213,61 @@
 
 <div class="row text-center text-lg-start">
 
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/bg-head.jpg" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/contact.jpg" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/carousel3.jpg" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/carousel1.jpg" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/sauted-abalone.png" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/lumi2.png" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/lubster2.png" alt="">
     </a>
-  </div><div class="col-lg-3 col-md-4 col-6">
+  </div><div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/octupos-suite.jpg" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/baked-scallops.png" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/shrimp-tempura.jpg" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/tuna-poke.jpg" alt="">
     </a>
   </div>
-  <div class="col-lg-3 col-md-4 col-6">
+  <div class="center1 col-lg-3 col-md-4 col-6">
     <a href="#" class="d-block mb-4 h-100">
       <img class="img-fluid img-thumbnail" src="assets/images/menus.jpg" alt="">
     </a>
